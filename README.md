@@ -56,7 +56,7 @@ Previously managed AWS infrastructure manually through Console and CLI during my
 
 **Previous Experience:**
 - Migrated 50+ on-premises servers to AWS
-- Managed VPCs, EC2, RDS, S3 for 1000+ users
+- Managed VPCs, EC2, RDS, S3 for 500+ users
 - Achieved 99.9% uptime for enterprise environments
 
 ## 👤 About
